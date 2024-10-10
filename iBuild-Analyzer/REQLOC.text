@@ -1,0 +1,24 @@
+Requisite Location Report
+Summary report:
+EXAMPLE objects:
+    Objects with requisites in library EXAMPLE: 14
+    Objects with requisites in library EXAMPLE: 14
+
+Detail report:
+EXAMPLE objects:
+    Objects with requisites in library EXAMPLE:
+        *CMD            EXAMPLE/CUSTMAINT                   
+        *FILE PF        EXAMPLE/CUSMST                      
+        *FILE LF        EXAMPLE/CUSMSTL1                    
+        *FILE LF        EXAMPLE/CUSMSTL2                    
+        *FILE LF        EXAMPLE/CUSMSTL3                    
+        *FILE DSPF      EXAMPLE/MAINMENU                    
+        *FILE DSPF      EXAMPLE/MNTMENU                     
+        *FILE DSPF      EXAMPLE/SCHNAMD                     
+        *FILE DSPF      EXAMPLE/SCHZIPD                     
+        *MODULE RPGLE   EXAMPLE/CUSMAIN                     
+        *MODULE RPGLE   EXAMPLE/CUSMNT                      
+        *MODULE RPGLE   EXAMPLE/SCHNAM                      
+        *MODULE RPGLE   EXAMPLE/SCHZIP                      
+        *PGM RPGLE      EXAMPLE/CUSTMAINT                   
+End of Requisite Location Report.

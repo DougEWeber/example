@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+EXAMPLE objects:
+    Objects with source in library EXAMPLE: 14
+
+Detail report:
+EXAMPLE objects:
+    Objects with source in library EXAMPLE:
+        *MODULE RPGLE   EXAMPLE/CUSMAIN                     
+        *FILE DSPF      EXAMPLE/MAINMENU                    
+        *MODULE RPGLE   EXAMPLE/CUSMNT                      
+        *FILE LF        EXAMPLE/CUSMSTL1                    
+        *FILE PF        EXAMPLE/CUSMST                      
+        *FILE DSPF      EXAMPLE/MNTMENU                     
+        *MODULE RPGLE   EXAMPLE/SCHNAM                      
+        *FILE LF        EXAMPLE/CUSMSTL3                    
+        *FILE DSPF      EXAMPLE/SCHNAMD                     
+        *MODULE RPGLE   EXAMPLE/SCHZIP                      
+        *FILE LF        EXAMPLE/CUSMSTL2                    
+        *FILE DSPF      EXAMPLE/SCHZIPD                     
+        *PGM RPGLE      EXAMPLE/SCHNAMRPG                   
+        *CMD            EXAMPLE/CUSTMAINT                   
+End of Source Location Report.
