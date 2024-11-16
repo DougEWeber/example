@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+XXXXCLIB objects:
+    Objects with source in library XXXXSRC: 14
+
+Detail report:
+XXXXCLIB objects:
+    Objects with source in library XXXXSRC:
+        *FILE PF        XXXXCLIB/CUSMST                     
+        *PGM RPGLE      XXXXCLIB/SCHNAMRPG                  
+        *MODULE RPGLE   XXXXCLIB/CUSMAIN                    
+        *MODULE RPGLE   XXXXCLIB/CUSMNT                     
+        *MODULE RPGLE   XXXXCLIB/SCHNAM                     
+        *MODULE RPGLE   XXXXCLIB/SCHZIP                     
+        *CMD            XXXXCLIB/CUSTMAINT                  
+        *FILE LF        XXXXCLIB/CUSMSTL1                   
+        *FILE LF        XXXXCLIB/CUSMSTL2                   
+        *FILE LF        XXXXCLIB/CUSMSTL3                   
+        *FILE DSPF      XXXXCLIB/MAINMENU                   
+        *FILE DSPF      XXXXCLIB/MNTMENU                    
+        *FILE DSPF      XXXXCLIB/SCHNAMD                    
+        *FILE DSPF      XXXXCLIB/SCHZIPD                    
+End of Source Location Report.

@@ -1,0 +1,31 @@
+Requisite Location Report
+Summary report:
+XXXXCLIB objects:
+    Objects with requisites in library XXXXCLIB: 3
+    Objects with requisites in library XXXXCLIB: 3
+    Objects with requisites in library XXXXLIVE: 1
+    Objects with requisites in library XXXXSRC: 13
+
+Detail report:
+XXXXCLIB objects:
+    Objects with requisites in library XXXXCLIB:
+        *FILE LF        XXXXCLIB/CUSMSTL1                   
+        *FILE LF        XXXXCLIB/CUSMSTL2                   
+        *FILE LF        XXXXCLIB/CUSMSTL3                   
+    Objects with requisites in library XXXXLIVE:
+        *PGM RPGLE      XXXXCLIB/CUSTMAINT                  
+    Objects with requisites in library XXXXSRC:
+        *CMD            XXXXCLIB/CUSTMAINT                  
+        *FILE PF        XXXXCLIB/CUSMST                     
+        *FILE LF        XXXXCLIB/CUSMSTL1                   
+        *FILE LF        XXXXCLIB/CUSMSTL2                   
+        *FILE LF        XXXXCLIB/CUSMSTL3                   
+        *FILE DSPF      XXXXCLIB/MAINMENU                   
+        *FILE DSPF      XXXXCLIB/MNTMENU                    
+        *FILE DSPF      XXXXCLIB/SCHNAMD                    
+        *FILE DSPF      XXXXCLIB/SCHZIPD                    
+        *MODULE RPGLE   XXXXCLIB/CUSMAIN                    
+        *MODULE RPGLE   XXXXCLIB/CUSMNT                     
+        *MODULE RPGLE   XXXXCLIB/SCHNAM                     
+        *MODULE RPGLE   XXXXCLIB/SCHZIP                     
+End of Requisite Location Report.
